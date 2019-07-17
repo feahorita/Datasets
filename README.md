@@ -1,13 +1,13 @@
 # Datasets
-Datasets from research works conducted or supervised by me. 
+Datasets from research works conducted or supervised by me.
 
 > Creation date: July, 2019
 
-# Supervisor 
+# Supervisor
 
 [Dr. Flávio Horita](http://www.flaviohorita.com)
 
-# Institution 
+# Institution
 
 - Center for Mathematics, Computation and Cognition (CMCC)
 - Federal University of ABC (UFABC)
@@ -18,5 +18,7 @@ Datasets from research works conducted or supervised by me.
 
 # Contributors (past and present)
 
-[Thiago Inocêncio](https://github.com/ThiagoInocencio) 
+- [Thiago Inocêncio](https://github.com/ThiagoInocencio) / 
 Master student at CMCC/UFABC
+
+# References
