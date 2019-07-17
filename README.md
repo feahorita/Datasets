@@ -15,3 +15,8 @@ Datasets from research works conducted or supervised by me.
 - Room 509-2 | Tower 2 | Building A
 - P: +55 11 4996-8331 (office) and +55 (11) 4996-7956 (secretary)
 - E: flavio.horita@ufabc.edu.br
+
+# Contributors (past and present)
+
+[Thiago Inocêncio](https://github.com/ThiagoInocencio) 
+Master student at CMCC/UFABC
